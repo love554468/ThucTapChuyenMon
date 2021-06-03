@@ -1,0 +1,12 @@
+srs là yêu cầu về sp mà đội phát triển pm cần thực hiện 
+
+KN: tài liệu đặc tả yêu cầu  - > yêu cầu chức năng và phi chức năng của hệ thống
+
+https://www.youtube.com/watch?v=PtJmjPkrSUE&ab_channel=Jelvix
+https://blog.itnavi.com.vn/srs-la-gi/
+
+cấu trúc srs document
+- phần giới thiệu
+- phần tổng thể (system diagram,phần usecase diagram)
+- Phần functional requirements
+- non- functional requirement 

@@ -1,0 +1,7 @@
+công việc cần :
+
+1.cách đặt tên ví dụ schedule -> đặt tên mình, hoặc tài liệu tham khảo
+2.sử dụng google drive để dùng chung tài liệu và chỉnh sửa
+3. dùng github để ghép code nếu cần (có thể ko quan tâm)
+4. đọc thêm về tài liệu srs cách viết và schedule 
+5. tài liệu gốc vứt lên mọi người cùng đọc sửa nửa mùa quá 

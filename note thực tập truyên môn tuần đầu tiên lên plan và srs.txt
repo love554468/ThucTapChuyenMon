@@ -1,0 +1,27 @@
+thiết kế các nhóm người 
+
+
+############
+chia spin 2 tuần với 2 tính năng là ok rồi 
+1 spin là 1 tuần 
+
+
+#############
+srs vẽ các liên quan sẽ làm 
+diagram -> phác hoạ chức năng người dùng
+hệ thống này có 2 loại đối tượng 
+admin tính năng abc
+user tính năng abc 
+=> đưa ra cái overview dự án 
+#####
+balsamiq-mockup
+tool draw use case 
+
+mocup ko cần màu cái cần phân biệt trạng thái mới cần màu thôi
+
+===
+nhóm 9 là một nhóm hay đó 
+https://drive.google.com/drive/folders/1VdtUHUGBjLt2XDmnN91oM9XjWzvn9Xzg
+
+====
+chỉ spin1 
